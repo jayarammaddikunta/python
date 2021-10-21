@@ -1,3 +1,2 @@
 
-Hello world, I'm Bea and jayaram
-This is python
+Hello world, I'm Bea and jayaram Thanks for your guidance
